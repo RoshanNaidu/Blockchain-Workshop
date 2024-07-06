@@ -1,4 +1,4 @@
-# Blockchain-Workshop-
+# Blockchain-Workshop
 This repository contains brief descriptions of the topics covered in the workshop and the projects in which I developed smart contracts during an intensive blockchain workshop. The workshop covered a wide range of topics and provided hands-on experience with some of the most critical aspects of blockchain development.
 
 # Topics:
