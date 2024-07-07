@@ -33,4 +33,4 @@ This repository contains brief descriptions of the topics covered in the worksho
 To get started with these projects, clone the repository and use Remix Ethereum Org to compile and deploy the contracts by uploading them in the contracts section.
 
 # Contact
-For any queries or collaboration, feel free to reach out to me on LinkedIn -> https://www.linkedin.com/in/roshan-naidu-aka-adonis.
+For any queries or collaboration, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/roshan-naidu-aka-adonis).
