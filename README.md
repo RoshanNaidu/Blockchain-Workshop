@@ -20,7 +20,7 @@ This repository contains brief descriptions of the topics covered in the worksho
 
 - Hugging Face & Sepolia Faucet: Exploring tools and resources to enhance blockchain development and testing. Hugging Face offers powerful machine learning tools, while Sepolia Faucet provides test Ether for developers to experiment with smart contracts without incurring real costs.
 
-- Remix Ethereum Org: This hands-on session involved creating, compiling, deploying, and interacting with smart contracts using Remix, a powerful web-based IDE for Solidity development. It allows for quick prototyping and debugging, making it an essential tool for developers.
+- [Remix Ethereum Org](www.remix..org): This hands-on session involved creating, compiling, deploying, and interacting with smart contracts using Remix, a powerful web-based IDE for Solidity development. It allows for quick prototyping and debugging, making it an essential tool for developers.
   
 # Projects:
 1. Math.sol
